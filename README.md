@@ -10,7 +10,7 @@
 <a href="https://www.figma.com/file/qLPS0hSLUNdxfs53GOOJu2/JORGE-ELIAN-GUIO-GONZALEZ-MOCKUP-1?type=design&node-id=0%3A1&mode=design&t=G9cYyneSgtAcnqaH-1">Link de Figma</a>
 
 <h2>Punto 2: Diseño de HTML</h2>
-
+<img src="./public/Images/punto_2.png" alt="Imagen punto 2">
 <h2>Punto 3: Diseño con CSS</h2>
 
 <h2>Punto 4: Títulos</h2>
