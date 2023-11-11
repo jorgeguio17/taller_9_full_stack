@@ -5,6 +5,7 @@
 <p>Profesor: Cristian Patiño</p>
 
 <h2>Link de la pagina web</h2>
+<a href="https://jorgeguio17.github.io/taller_9_full_stack/">Link de pagina web</a>
 
 <h2>Punto 1: Link de figma</h2>
 <a href="https://www.figma.com/file/qLPS0hSLUNdxfs53GOOJu2/JORGE-ELIAN-GUIO-GONZALEZ-MOCKUP-1?type=design&node-id=0%3A1&mode=design&t=G9cYyneSgtAcnqaH-1">Link de Figma</a>
