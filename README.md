@@ -18,8 +18,9 @@
 
 <h2>Punto 4: Títulos</h2>
 <img src="./public/Images/punto_4.png" alt="Imagen punto 4">
-<h2>Punto 5: Párrafo</h2>
 
+<h2>Punto 5: Párrafo</h2>
+<img src="./public/Images/punto_5.png" alt="Imagen punto 5">
 <h2>Punto 6: Links</h2>
 
 <h2>Punto 7 y 8: Nageación</h2>

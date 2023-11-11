@@ -1,0 +1,23 @@
+#grande{
+    font-size: 40px;
+    font-weight: bold;
+}
+u{
+    color: green;
+}
+b{
+    color: red;
+}
+#doble_linea{
+    text-decoration: underline;
+    border-top: 1px solid black;
+}
+strong{
+    color: blue;
+}
+strong u{
+    color: red;
+}
+body{
+    margin: 0px 360px;
+}
