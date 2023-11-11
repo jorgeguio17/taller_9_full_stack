@@ -1,0 +1,28 @@
+#section_1{
+    display: flex;
+    margin: 20px 180px;
+    justify-content: space-between;
+}
+.section_1_info{
+    width: 30%;
+}
+
+.section_1_info p{
+    color: #454868;
+}
+
+.section1_card{
+    box-shadow: 0px 0px 20px 10px #45486839;
+    border-radius: 48px;
+    padding: 25px;
+    width: min-content;
+    text-align: center;
+    height: 195px;
+}
+.section1_card_down{
+    margin-top: 40px;
+}
+.section1_card h3{
+    font-family: 'Jost';
+    color: #010851;
+}

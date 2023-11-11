@@ -11,8 +11,9 @@
 
 <h2>Punto 2: Diseño de HTML</h2>
 <img src="./public/Images/punto_2.png" alt="Imagen punto 2">
-<h2>Punto 3: Diseño con CSS</h2>
 
+<h2>Punto 3: Diseño con CSS</h2>
+<img src="./public/Images/punto_3.png" alt="Imagen punto 3">
 <h2>Punto 4: Títulos</h2>
 
 <h2>Punto 5: Párrafo</h2>
