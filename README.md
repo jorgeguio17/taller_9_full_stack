@@ -21,8 +21,9 @@
 
 <h2>Punto 5: Párrafo</h2>
 <img src="./public/Images/punto_5.png" alt="Imagen punto 5">
-<h2>Punto 6: Links</h2>
 
+<h2>Punto 6: Links</h2>
+<img src="./public/Images/punto_6.png" alt="Imagen punto 6">
 <h2>Punto 7 y 8: Nageación</h2>
 
 <h2>Punto 9: Tabla</h2>
