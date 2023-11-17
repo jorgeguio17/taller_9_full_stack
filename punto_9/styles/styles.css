@@ -1,0 +1,16 @@
+table{
+    background-color: yellow;
+    width: 820px;
+    border-collapse: collapse;
+    border-bottom: 2px dashed red;
+}
+th{
+    color: red;
+    border: 1px dotted black;
+}
+td{
+    border: 1px dotted black;
+}
+body{
+    margin: 10px 250px;
+}

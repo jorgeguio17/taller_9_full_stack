@@ -1,0 +1,20 @@
+nav {
+    color: white;
+    text-decoration:none;
+    background-color: rgba(238, 128, 210, 0.644);
+    height: 60px;
+    width: 500px;
+    margin: 30px 450px;
+    font-size: 18px;
+}
+nav ul :hover{
+    background-color: blue;
+    cursor: pointer;   
+}
+ul{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 30px;
+    height: 60px;
+}

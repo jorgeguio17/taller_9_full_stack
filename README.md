@@ -24,9 +24,12 @@
 
 <h2>Punto 6: Links</h2>
 <img src="./public/Images/punto_6.png" alt="Imagen punto 6">
-<h2>Punto 7 y 8: Nageación</h2>
+
+<h2>Punto 7 y 8: Navegación</h2>
+<img src="./public/Images/punto_7_8.png" alt="Imagen punto 7 y 8">
 
 <h2>Punto 9: Tabla</h2>
+<img src="./public/Images/punto_9.png" alt="Imagen punto 9">
 
 
 
